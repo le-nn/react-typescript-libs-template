@@ -10,7 +10,7 @@ export default [
             format: 'esm',
             dir: './build/',
             entryFileNames: 'index.js',
-            name:"Visualiz"
+            name:"Libs"
         },
         globals: {
             react: 'React',
